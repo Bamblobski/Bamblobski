@@ -23,7 +23,7 @@
 - **C++** – Only with Arduino.  
 
 ### 📚 Frameworks and Libraries  
-- **React** – Making web apps reactive.  
+- **Node.js** – Where JavaScript goes backend surfing
 - **Tailwind CSS** – Because writing plain CSS is so last decade.  
 - **ASP.NET** – For when you want to feel professional.  
 
