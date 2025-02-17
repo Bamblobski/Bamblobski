@@ -35,7 +35,7 @@
 
 ### 🗄 Databases  
 - **Hetzner** – Really cheap.  
-- **MySQL** – Had like 3 courses, still learning.  
+- **MySQL** – Had like 3 courses.  
 
 ---
 
@@ -47,6 +47,6 @@
 ---
 
 ## 🌍 Socials and Contacts  
-- **LinkedIn** – Professional stalking welcome.  
-- **GitHub** – I need a third account for perfection (every company wants a new one).  
+- **LinkedIn** – [Professional](https://www.linkedin.com/in/hugo-pawlowski-98248b225/) stalking welcome.  
+- **GitHub** – My third account (every company wants a new one).  
 - 📧 **Email:** [hugo.pawlowski2003@gmail.com](mailto:hugo.pawlowski2003@gmail.com) – Spam me, I dare you.  
